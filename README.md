@@ -18,10 +18,10 @@ These instructions will get you a copy of the project up and running on your loc
 Download nt-gateway and nt-ms projects in to your STS or Eclipse workspace. 
 
 ============
-Follow below link
+Follow below link for help
 
 https://medium.com/@niral22/2-way-ssl-with-spring-boot-microservices-2c97c974e83
-https://gist.github.com/PowerKiKi/02a90c765d7b79e7f64d
+https://dzone.com/articles/hakky54mutual-tls-1
 
 
 ============
